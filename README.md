@@ -1,7 +1,10 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://as1.ftcdn.net/v2/jpg/02/42/83/38/1000_F_242833857_rsLAXVpWoSsKMOt9n5BCb4IRdNRupQ8X.jpg
+))](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Lautaro</h1>
 <h3 align="center">A Data Scientist from Argentina</h3>
 
-- 🌱 I’m currently learning **Machine learning and data**
+- 🌱 I’m currently learning **Machine learning and data**, always learning new things 
 
 - 📫 How to reach me **lautaroppaniagua@gmail.com**
 
