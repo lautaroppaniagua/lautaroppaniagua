@@ -1,9 +1,9 @@
 ![Header](./github-header-image.png)
 
-<h1 align="center">Hi 👋, I'm Lautaro</h1>
+<h1 align="center">Hi 👋🤓</h1>
 <h3 align="center">A Data Scientist from Argentina</h3>
 
-- 🌱 I’m currently learning **Machine learning and data**, always learning new things 
+- 🌱 Always learning, currently at **Machine learning and data**, exploring the depths of data to drive decisions
 
 - 📫 How to reach me **lautaroppaniagua@gmail.com**
 
